@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow-x: hidden;
+    height: 100vh;
+}
+
+.wrapper {
+    width: 600px;
+}
+
+.table-1 {
+    background-color: #eef4ff;
+}
+
+.width-td {
+    width: 600px;
+}
+
+.w-date {
+    width: 80px;
+}
+
+.w-holder,
+.w-number {
+    width: 300px;
+}
+ 
+
+.w-cvc {
+    width: 175.2px;
+}
+
+.fs-lorem {
+    font-size: 15px;
+}
